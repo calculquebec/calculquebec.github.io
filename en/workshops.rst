@@ -3,8 +3,8 @@ Workshops
 
 `Français <../fr/ateliers.html>`_
 
-- Our next training workshops are `announced here
-  <https://www.eventbrite.ca/o/calcul-quebec-8295332683>`__.
+**Registration**: `on Eventbrite
+<https://www.eventbrite.ca/o/calcul-quebec-8295332683>`__.
 
 .. list-table:: Our training workshops
     :header-rows: 1

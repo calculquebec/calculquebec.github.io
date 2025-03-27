@@ -18,13 +18,15 @@ ailleurs! On y retrouve :
 
     ateliers
     ecoles-printemps
+    midi-conf
 
 .. toctree::
-    :caption: Administration
+    :caption: Référence
     :maxdepth: 2
     :titlesonly:
     :hidden:
 
+    aide-memoires
     depots-git
 
 .. toctree::

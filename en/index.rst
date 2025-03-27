@@ -8,7 +8,7 @@ elsewhere. We can find:
 
 - Material for the :doc:`training workshops <workshops>`.
 - Past material for the :doc:`Spring schools <spring-schools>`.
-- Some administrative tools.
+- Past material for :doc:`lunch conferences <lunch-conf>`.
 
 .. toctree::
     :caption: Training
@@ -18,13 +18,15 @@ elsewhere. We can find:
 
     workshops
     spring-schools
+    lunch-conf
 
 .. toctree::
-    :caption: Administration
+    :caption: Reference
     :maxdepth: 2
     :titlesonly:
     :hidden:
 
+    cheatsheets
     git-repos
 
 .. toctree::

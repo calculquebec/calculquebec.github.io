@@ -3,8 +3,8 @@ Ateliers
 
 `English <../en/workshops.html>`_
 
-- Nos prochains ateliers de formation sont `annoncés ici
-  <https://www.eventbrite.ca/o/calcul-quebec-8295332683>`__.
+**Inscription** : `sur Eventbrite
+<https://www.eventbrite.ca/o/calcul-quebec-8295332683>`__.
 
 .. list-table:: Nos ateliers de formation
     :header-rows: 1
