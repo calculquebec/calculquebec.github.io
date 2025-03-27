@@ -8,7 +8,8 @@ ailleurs! On y retrouve :
 
 - Le matériel de nos :doc:`ateliers de formation <ateliers>`.
 - Le matériel de nos précédentes :doc:`écoles de printemps <ecoles-printemps>`.
-- Quelques outils d’administration
+- Le matériel de nos précédents :doc:`midi-conférences <midi-conf>`.
+- Quelques :doc:`aide-mémoires <aide-memoires>`.
 
 .. toctree::
     :caption: Formation

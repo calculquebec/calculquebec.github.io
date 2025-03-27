@@ -9,6 +9,7 @@ elsewhere. We can find:
 - Material for the :doc:`training workshops <workshops>`.
 - Past material for the :doc:`Spring schools <spring-schools>`.
 - Past material for :doc:`lunch conferences <lunch-conf>`.
+- A few :doc:`cheatsheets <cheatsheets>`.
 
 .. toctree::
     :caption: Training
