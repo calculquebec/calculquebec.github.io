@@ -33,3 +33,11 @@ Workshops
       - Mastering the Alliance’s Compute Systems
       - `Website <https://calculquebec.github.io/old-cip201-compute-systems/>`__
       - `Git repos <https://github.com/calculquebec/old-cip201-compute-systems>`__
+    * - MPI201 (2024)
+      - Programmation parallèle avec MPI (C et Python)
+      - `Website <https://calculquebec.github.io/old-mpi201-c-fortran/>`__
+      - `Git repos <https://github.com/calculquebec/old-mpi201-c-fortran>`__
+    * - MPI201 (2019)
+      - Introduction to MPI (C & Fortran)
+      - `Slides <https://tinyurl.com/cq-intro-mpi-20191023>`__
+      - `Git repos <https://github.com/calculquebec/old-mpi201-c-fortran/tree/mcgill>`__
