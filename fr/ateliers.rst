@@ -23,8 +23,9 @@ Ateliers
       - `Dépôt Git <https://github.com/calculquebec/cq-formation-cip202/tree/main/lab>`__
     * - CIP301
       - Optimisation des ressources sur CPU et GPU
-      - En production
-      - `Diapositives https://docs.google.com/presentation/d/1tS6q2KERVvBToZFm4_9leqUagaYb36qte5mPQLuXojc/edit?slide=id.g3417f065bcb_0_0#slide=id.g3417f065bcb_0_0>`__
+      - `Diapositives <https://docs.google.com/presentation/d/1tS6q2KERVvBToZFm4_9leqUagaYb36qte5mPQLuXojc>`__
+      - S.O.
+
 .. list-table:: Anciens ateliers de formation
     :header-rows: 1
 
