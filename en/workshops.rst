@@ -21,6 +21,10 @@ Workshops
       - Data parallelism on the clusters
       - `Website <https://calculquebec.github.io/cq-formation-cip202/en/index.html>`__
       - `Git repos <https://github.com/calculquebec/cq-formation-cip202/tree/main/lab>`__
+    * - CIP301
+      - Optimisation des ressources sur CPU et GPU
+      - `Slides <https://docs.google.com/presentation/d/1tS6q2KERVvBToZFm4_9leqUagaYb36qte5mPQLuXojc>`__
+      - N.A.
 
 .. list-table:: Former training workshops
     :header-rows: 1

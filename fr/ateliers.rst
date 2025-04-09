@@ -21,6 +21,10 @@ Ateliers
       - Parallélisme de données sur les grappes
       - `Site Web <https://calculquebec.github.io/cq-formation-cip202/fr/index.html>`__
       - `Dépôt Git <https://github.com/calculquebec/cq-formation-cip202/tree/main/lab>`__
+    * - CIP301
+      - Optimisation des ressources sur CPU et GPU
+      - `Diapositives <https://docs.google.com/presentation/d/1tS6q2KERVvBToZFm4_9leqUagaYb36qte5mPQLuXojc>`__
+      - S.O.
 
 .. list-table:: Anciens ateliers de formation
     :header-rows: 1
