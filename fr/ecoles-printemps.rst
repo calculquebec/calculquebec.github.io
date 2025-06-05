@@ -61,6 +61,49 @@ Les exercices supplémentaires sont disponibles ici :
         <https://docs.google.com/presentation/d/1ap97ejMwf-gHWaZS6lKhnsoOJ7hvOL6E0NpKqHB3R7s>`__
       - S.O.
 
+.. list-table:: Parcours - Techniques avancées de calcul parallèle en Python
+    :header-rows: 1
+
+    * - Titre
+      - Présentation
+      - Matériel
+    * - Optimisation des scripts de tâches de calcul
+      - Sites Web `cip201
+        <https://calculquebec.github.io/cq-formation-cip201/>`__
+        et `cip202
+        <https://calculquebec.github.io/cq-formation-cip202/>`__
+      - Dépôts Git `cip201
+        <https://github.com/calculquebec/cq-formation-cip201/tree/main/lab>`__
+        et `cip202
+        <https://github.com/calculquebec/cq-formation-cip202/tree/main/lab>`__
+    * - Analyse de données avec Python
+      - `Diapositives
+        <https://docs.google.com/presentation/d/1YGbDA0FKNSCPSZnU-nMcMDOKXGcNlo9hKIbNBjNwv4s>`__
+      - `Dépôt Git
+        <https://github.com/calculquebec/cq-formation-dat201>`__
+    * - Calcul distribué avec Dask
+      - S.O.
+      - `Dépôt Git
+        <https://github.com/calculquebec/cq-formation-dask>`__
+    * - Programmation parallèle avec MPI4py
+      - `Site Web
+        <https://calculquebec.github.io/cq-formation-mpi201/>`__
+      - `Dépôt Git
+        <https://github.com/calculquebec/cq-formation-mpi201/tree/main/lab>`__
+    * - GPU acceleration with Numba
+      - S.O.
+      - `Dépôt Git
+        <https://github.com/calculquebec/cq-intro-python-gpu>`__
+    * - Introduction to Artificial Intelligence
+      - `Diapositives
+        <https://docs.google.com/presentation/d/1Luefp-nhiVHLg30K5Xformudjj_6Sv3BLY7nLZNaTZU>`__
+      - `Dépôt Git
+        <https://github.com/calculquebec/intro-machine-learning>`__
+    * - LLMs: Un tour dans les coulisses
+      - `Diapositives
+        <https://docs.google.com/presentation/d/1ap97ejMwf-gHWaZS6lKhnsoOJ7hvOL6E0NpKqHB3R7s>`__
+      - S.O.
+
 Édition 2024
 ------------
 

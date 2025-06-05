@@ -22,7 +22,7 @@ Edition 2025
 
 - From May 20 to May 23, 2025, at Bishop’s University
 
-.. list-table:: Room 1 - Introduction to programming
+.. list-table:: Stream 1 - Introduction to programming
     :header-rows: 1
 
     * - Title
@@ -61,12 +61,55 @@ Edition 2025
         <https://docs.google.com/presentation/d/1ap97ejMwf-gHWaZS6lKhnsoOJ7hvOL6E0NpKqHB3R7s>`__
       - N.A.
 
+.. list-table:: Stream 2 - Advanced techniques of parallel computing with Python
+    :header-rows: 1
+
+    * - Title
+      - Presentation
+      - Material
+    * - Optimisation des scripts de tâches de calcul
+      - Websites `cip201
+        <https://calculquebec.github.io/cq-formation-cip201/en/>`__
+        and `cip202
+        <https://calculquebec.github.io/cq-formation-cip202/en/>`__
+      - Git repos `cip201
+        <https://github.com/calculquebec/cq-formation-cip201/tree/main/lab>`__
+        and `cip202
+        <https://github.com/calculquebec/cq-formation-cip202/tree/main/lab>`__
+    * - Analyse de données avec Python
+      - `Slides
+        <https://docs.google.com/presentation/d/1YGbDA0FKNSCPSZnU-nMcMDOKXGcNlo9hKIbNBjNwv4s>`__
+      - `Git repos
+        <https://github.com/calculquebec/cq-formation-dat201>`__
+    * - Calcul distribué avec Dask
+      - S.O.
+      - `Git repos
+        <https://github.com/calculquebec/cq-formation-dask>`__
+    * - Programmation parallèle avec MPI4py
+      - `Website
+        <https://calculquebec.github.io/cq-formation-mpi201/>`__
+      - `Git repos
+        <https://github.com/calculquebec/cq-formation-mpi201/tree/main/lab>`__
+    * - GPU acceleration with Numba
+      - S.O.
+      - `Git repos
+        <https://github.com/calculquebec/cq-intro-python-gpu>`__
+    * - Introduction to Artificial Intelligence
+      - `Slides
+        <https://docs.google.com/presentation/d/1Luefp-nhiVHLg30K5Xformudjj_6Sv3BLY7nLZNaTZU>`__
+      - `Git repos
+        <https://github.com/calculquebec/intro-machine-learning>`__
+    * - LLMs: Un tour dans les coulisses
+      - `Slides
+        <https://docs.google.com/presentation/d/1ap97ejMwf-gHWaZS6lKhnsoOJ7hvOL6E0NpKqHB3R7s>`__
+      - S.O.
+
 Edition 2024
 ------------
 
 - From May 21 to May 24, 2024, at Bishop’s University
 
-.. list-table:: Room 1 - Data analysis
+.. list-table:: Stream 1 - Data analysis
     :header-rows: 1
 
     * - Title
@@ -93,7 +136,7 @@ Edition 2024
       - `Git repos
         <https://github.com/calculquebec/cq-formation-dat201>`__
 
-.. list-table:: Room 2 - Parallel programming
+.. list-table:: Stream 2 - Parallel programming
     :header-rows: 1
 
     * - Title
