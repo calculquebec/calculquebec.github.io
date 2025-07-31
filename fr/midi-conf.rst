@@ -12,12 +12,20 @@ Midi-conférences
     * - Date
       - Titre
       - Présentation
+      - Vidéo
+    * - 2025-07-30
+      - Bienvenue sur le superordinateur `Rorqual <https://docs.alliancecan.ca/wiki/Rorqual>`__
+      - `Diapositives <https://docs.google.com/presentation/d/1SxqzNI9dtxnVCe8I2otJg6PJpLQwDjeDakNI7yMsuvU>`__
+      -
     * - 2025-03-17
-      - Comment éviter le gaspillage sur GPU pour accélérer votre recherche?
-      - `Diapositives <https://docs.google.com/presentation/d/1xcND5dJtnleVsbYPEIXhFUbCkhC5ZbDmaGjYx4Q1ESs>`__.
+      - Comment éviter le gaspillage sur **GPU** pour accélérer votre recherche?
+      - `Diapositives <https://docs.google.com/presentation/d/1xcND5dJtnleVsbYPEIXhFUbCkhC5ZbDmaGjYx4Q1ESs>`__
+      -
     * - 2025-03-10
-      - Comment éviter le gaspillage sur CPU pour accélérer votre recherche?
-      - `Diapositives <https://docs.google.com/presentation/d/1_DMcgNF2W28wNQ64bwg1Q9PbME72WwgoClmd4JFbs70>`__.
+      - Comment éviter le gaspillage sur **CPU** pour accélérer votre recherche?
+      - `Diapositives <https://docs.google.com/presentation/d/1_DMcgNF2W28wNQ64bwg1Q9PbME72WwgoClmd4JFbs70>`__
+      -
     * - 2025-02-10
       - Pourquoi ma tâche prend du temps à démarrer?
-      - `Diapositives <https://docs.google.com/presentation/d/1CNmj2UX2RWI1Uo5DqXnGJ3OH9l_wwNB8RT3BWijBLVY>`__.
+      - `Diapositives <https://docs.google.com/presentation/d/1CNmj2UX2RWI1Uo5DqXnGJ3OH9l_wwNB8RT3BWijBLVY>`__
+      -
