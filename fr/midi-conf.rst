@@ -12,11 +12,11 @@ Midi-conférences
     * - Date
       - Titre
       - Présentation
-      - Vidéo
+      - Enregistrement
     * - 2025-07-30
       - Bienvenue sur le superordinateur `Rorqual <https://docs.alliancecan.ca/wiki/Rorqual>`__
       - `Diapositives <https://docs.google.com/presentation/d/1SxqzNI9dtxnVCe8I2otJg6PJpLQwDjeDakNI7yMsuvU>`__
-      -
+      - `Vidéo <https://www.youtube.com/watch?v=hTM6XOvYjxw>`__
     * - 2025-03-17
       - Comment éviter le gaspillage sur **GPU** pour accélérer votre recherche?
       - `Diapositives <https://docs.google.com/presentation/d/1xcND5dJtnleVsbYPEIXhFUbCkhC5ZbDmaGjYx4Q1ESs>`__

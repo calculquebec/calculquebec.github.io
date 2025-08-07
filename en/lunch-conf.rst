@@ -12,11 +12,11 @@ Lunch conferences
     * - Date
       - Title
       - Presentation
-      - Video
+      - Recording
     * - 2025-07-31
       - Welcome to the `Rorqual <https://docs.alliancecan.ca/wiki/Rorqual/en>`__ Supercomputer
       - `Slides <https://docs.google.com/presentation/d/1Ah61BBKZIJcn_AeosgUspxRCX_amubPUetZY68SfyXU>`__
-      -
+      - `Video <https://www.youtube.com/watch?v=lXetzrViI8Q>`__
     * - 2025-03-17
       - Comment éviter le gaspillage sur **GPU** pour accélérer votre recherche?
       - `Slides <https://docs.google.com/presentation/d/1xcND5dJtnleVsbYPEIXhFUbCkhC5ZbDmaGjYx4Q1ESs>`__
