@@ -1,6 +1,6 @@
-# Gabarit de contenu didactique utilisant Sphinx
+# Index du matériel sur GitHub et ailleurs
 
-[Site Web](https://calculquebec.github.io/)
+Voir le [site Web](https://calculquebec.github.io/)
 
 ## Installation locale et compilation
 
