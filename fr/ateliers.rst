@@ -25,6 +25,14 @@ Ateliers
       - Optimisation des ressources sur CPU et GPU
       - `Diapositives <https://docs.google.com/presentation/d/1tS6q2KERVvBToZFm4_9leqUagaYb36qte5mPQLuXojc>`__
       - S.O.
+    * - DAT201
+      - Analyse de données avec Python
+      - `Notebooks <https://github.com/calculquebec/dat201/tree/main/fr>`__
+      - `Dépôt Git <https://github.com/calculquebec/dat201>`__
+    * - DAT203
+      - Visualisation de données avec Python
+      - `Notebooks <https://github.com/calculquebec/dat203/tree/main/fr>`__
+      - `Dépôt Git <https://github.com/calculquebec/dat203>`__
 
 .. list-table:: Anciens ateliers de formation
     :header-rows: 1
