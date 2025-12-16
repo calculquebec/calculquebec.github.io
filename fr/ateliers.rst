@@ -14,13 +14,13 @@ Ateliers
       - Présentation
       - Matériel
     * - CIP201
-      - Tâches de calcul : ressources et suivi
-      - `Site Web <https://calculquebec.github.io/cq-formation-cip201/fr/index.html>`__
-      - `Dépôt Git <https://github.com/calculquebec/cq-formation-cip201/tree/main/lab>`__
+      - Suivi des tâches de calcul et estimation des ressources
+      - `Site Web <https://calculquebec.github.io/cip201/fr/index.html>`__
+      - `Dépôt Git <https://github.com/calculquebec/cip201>`__, dans ``lab/``
     * - CIP202
-      - Parallélisme de données sur les grappes
-      - `Site Web <https://calculquebec.github.io/cq-formation-cip202/fr/index.html>`__
-      - `Dépôt Git <https://github.com/calculquebec/cq-formation-cip202/tree/main/lab>`__
+      - Gestion de grands lots de tâches
+      - `Site Web <https://calculquebec.github.io/cip202/fr/index.html>`__
+      - `Dépôt Git <https://github.com/calculquebec/cip202>`__, dans ``lab/``
     * - CIP301
       - Optimisation des ressources sur CPU et GPU
       - `Diapositives <https://docs.google.com/presentation/d/1tS6q2KERVvBToZFm4_9leqUagaYb36qte5mPQLuXojc>`__
@@ -41,15 +41,7 @@ Ateliers
       - Titre
       - Présentation
       - Matériel
-    * - CIP201 (2024)
-      - Maîtriser les systèmes de calculs de l’Alliance
-      - `Site Web <https://calculquebec.github.io/old-cip201-serveurs-calcul/>`__
-      - `Dépôt Git <https://github.com/calculquebec/old-cip201-serveurs-calcul>`__
-    * - MPI201 (2024)
-      - Programmation parallèle avec MPI (C et Python)
-      - `Site Web <https://calculquebec.github.io/old-mpi201-c-fortran/>`__
-      - `Dépôt Git <https://github.com/calculquebec/old-mpi201-c-fortran>`__
     * - MPI201 (2019)
       - Introduction to MPI (C & Fortran)
       - `Diapositives <https://tinyurl.com/cq-intro-mpi-20191023>`__
-      - `Dépôt Git <https://github.com/calculquebec/old-mpi201-c-fortran/tree/mcgill>`__
+      - S.O.
