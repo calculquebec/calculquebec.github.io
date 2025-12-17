@@ -36,3 +36,4 @@ elsewhere. We can find:
 
     Alliance Technical Documentation <https://docs.alliancecan.ca/wiki/Technical_documentation/en>
     Calcul Québec Training <https://www.calculquebec.ca/en/academic-research-services/training/>
+    Explora <https://explora.alliancecan.ca/>

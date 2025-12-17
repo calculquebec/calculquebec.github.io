@@ -36,3 +36,4 @@ ailleurs! On y retrouve :
 
     Documentation technique de l’Alliance <https://docs.alliancecan.ca/wiki/Technical_documentation/fr>
     Formations de Calcul Québec <https://www.calculquebec.ca/services-aux-chercheurs/formation/>
+    Explora <https://explora.alliancecan.ca/>
