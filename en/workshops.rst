@@ -45,6 +45,14 @@ Workshops
       - Title
       - Presentation
       - Material
+    * - PYT101
+      - Introduction to programming with Python
+      - `Notebooks <https://github.com/calculquebec/pyt101/tree/en>`__
+      - `Git repos <https://github.com/calculquebec/pyt101>`__
+    * - PYT102
+      - Enhancing your Python programming skills
+      - `Notebooks <https://github.com/calculquebec/pyt102/tree/main/en>`__
+      - `Git repos <https://github.com/calculquebec/pyt102>`__
     * - DAT201
       - Data Analysis with Python
       - `Notebooks <https://github.com/calculquebec/dat201/tree/main/en>`__

@@ -45,6 +45,14 @@ Ateliers
       - Titre
       - Présentation
       - Matériel
+    * - PYT101
+      - Introduction à la programmation avec Python
+      - `Notebooks <https://github.com/calculquebec/pyt101/tree/main>`__
+      - `Dépôt Git <https://github.com/calculquebec/pyt101>`__
+    * - PYT102
+      - Perfectionnement en programmation Python
+      - `Notebooks <https://github.com/calculquebec/pyt102/tree/main/fr>`__
+      - `Dépôt Git <https://github.com/calculquebec/pyt102>`__
     * - DAT201
       - Analyse de données avec Python
       - `Notebooks <https://github.com/calculquebec/dat201/tree/main/fr>`__
