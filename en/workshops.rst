@@ -17,6 +17,10 @@ Workshops
       - Title
       - Presentation
       - Material
+    * - CIP101
+      - First steps on supercomputers
+      - `Slides <https://docs.google.com/presentation/d/1IsorZuWGkmpb6PA3v3CMGoScptutDYwAtI8rMUCRd_A>`__
+      - `Git repos <https://github.com/calculquebec/cip101>`__
     * - CIP201
       - Job monitoring and resource estimation
       - `Website <https://calculquebec.github.io/cip201/en/index.html>`__
@@ -25,6 +29,10 @@ Workshops
       - Managing large batches of jobs
       - `Website <https://calculquebec.github.io/cip202/en/index.html>`__
       - `Git repos <https://github.com/calculquebec/cip202>`__, in ``lab/``
+    * - CIP203
+      - Maximizing GPU usage with MIGs, MPS, and Time-Slicing
+      - `Notebooks <https://github.com/calculquebec/cip203>`__
+      - `Git repos <https://github.com/calculquebec/cip203>`__
     * - CIP301
       - Optimisation des ressources sur CPU et GPU
       - `Slides <https://docs.google.com/presentation/d/1tS6q2KERVvBToZFm4_9leqUagaYb36qte5mPQLuXojc>`__

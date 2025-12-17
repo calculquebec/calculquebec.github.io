@@ -17,6 +17,10 @@ Ateliers
       - Titre
       - Présentation
       - Matériel
+    * - CIP101
+      - Premiers pas sur les superordinateurs
+      - `Diapositives <https://docs.google.com/presentation/d/1A_BllD4VIS_E8tLgiln4ErKHWfTGQYp6WZUD4fkrhvs>`__
+      - `Dépôt Git <https://github.com/calculquebec/cip101>`__
     * - CIP201
       - Suivi des tâches de calcul et estimation des ressources
       - `Site Web <https://calculquebec.github.io/cip201/fr/index.html>`__
@@ -25,6 +29,10 @@ Ateliers
       - Gestion de grands lots de tâches
       - `Site Web <https://calculquebec.github.io/cip202/fr/index.html>`__
       - `Dépôt Git <https://github.com/calculquebec/cip202>`__, dans ``lab/``
+    * - CIP203
+      - Maximizing GPU usage with MIGs, MPS, and Time-Slicing
+      - `Notebooks <https://github.com/calculquebec/cip203>`__
+      - `Dépôt Git <https://github.com/calculquebec/cip203>`__
     * - CIP301
       - Optimisation des ressources sur CPU et GPU
       - `Diapositives <https://docs.google.com/presentation/d/1tS6q2KERVvBToZFm4_9leqUagaYb36qte5mPQLuXojc>`__
