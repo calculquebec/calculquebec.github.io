@@ -29,3 +29,23 @@ Midi-conférences
       - Pourquoi ma tâche prend du temps à démarrer?
       - `Diapositives <https://docs.google.com/presentation/d/1CNmj2UX2RWI1Uo5DqXnGJ3OH9l_wwNB8RT3BWijBLVY>`__
       -
+
+.. list-table:: Année 2026
+    :header-rows: 1
+
+    * - Date
+      - Titre
+      - Présentation
+      - Enregistrement
+    * - 2026-04-06
+      - Pourquoi ma tâche prend du temps à démarrer?
+      - `Diapositives <https://docs.google.com/presentation/d/1bw8hGSi71kXai0xYDqHcoZpymI5RssTZjTbookgmDLY>`__
+      -
+    * - 2026-04-20
+      - Comment travailler avec Python sur les superordinateurs.
+      - `Matériel <https://drive.google.com/drive/u/0/folders/1DHE3NFxdD-_-JT5N1yrtlhVsrycRiDD6>`__
+      -
+    * - 2026-04-27
+      - Comment travailler avec R sur les superordinateurs.
+      - `Matériel <https://docs.google.com/document/d/1UIazd8CRQig18XdmWsfTfy2uojSqVv8UA-FBg84azQY>`__
+      -
