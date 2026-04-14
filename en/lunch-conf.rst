@@ -13,17 +13,17 @@ Lunch conferences
       - Title
       - Presentation
       - Recording
-    * - 2026-04-27
-      - Comment travailler avec R sur les superordinateurs.
-      - `Material <https://docs.google.com/document/d/1UIazd8CRQig18XdmWsfTfy2uojSqVv8UA-FBg84azQY>`__
+    * - 2026-05-06
+      - Pourquoi ma tâche prend du temps à démarrer?
+      - `Slides <https://docs.google.com/presentation/d/1bw8hGSi71kXai0xYDqHcoZpymI5RssTZjTbookgmDLY>`__
       -
-    * - 2026-04-20
+    * - 2026-04-27
       - Comment travailler avec Python sur les superordinateurs.
       - `Material <https://docs.google.com/document/d/195CReDwPrRu45obGNtenEfWlLuwdGPNin64S7bGjxgE>`__
       -
-    * - 2026-04-06
-      - Pourquoi ma tâche prend du temps à démarrer?
-      - `Slides <https://docs.google.com/presentation/d/1bw8hGSi71kXai0xYDqHcoZpymI5RssTZjTbookgmDLY>`__
+    * - 2026-04-20
+      - Comment travailler avec R sur les superordinateurs.
+      - `Material <https://docs.google.com/document/d/1UIazd8CRQig18XdmWsfTfy2uojSqVv8UA-FBg84azQY>`__
       -
 
 .. list-table:: Year 2025
