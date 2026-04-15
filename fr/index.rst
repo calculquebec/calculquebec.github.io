@@ -28,12 +28,12 @@ ailleurs! On y retrouve :
     :hidden:
 
     aide-memoires
-    depots-git
+    Documentation technique de l’Alliance <https://docs.alliancecan.ca/wiki/Technical_documentation/fr>
 
 .. toctree::
     :caption: Liens externes
     :hidden:
 
-    Documentation technique de l’Alliance <https://docs.alliancecan.ca/wiki/Technical_documentation/fr>
+    Dépôts Git <https://github.com/calculquebec>
     Formations de Calcul Québec <https://www.calculquebec.ca/services-aux-chercheurs/formation/>
-    Explora <https://explora.alliancecan.ca/>
+    Explora - toutes les formations à l'Alliance <https://explora.alliancecan.ca/>

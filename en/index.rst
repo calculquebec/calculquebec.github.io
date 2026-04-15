@@ -28,12 +28,12 @@ elsewhere. We can find:
     :hidden:
 
     cheatsheets
-    git-repos
+    Alliance Technical Documentation <https://docs.alliancecan.ca/wiki/Technical_documentation/en>
 
 .. toctree::
     :caption: External links
     :hidden:
 
-    Alliance Technical Documentation <https://docs.alliancecan.ca/wiki/Technical_documentation/en>
+    Git repositories <https://github.com/calculquebec>
     Calcul Québec Training <https://www.calculquebec.ca/en/academic-research-services/training/>
-    Explora <https://explora.alliancecan.ca/>
+    Explora - all training events at the Alliance <https://explora.alliancecan.ca/>
