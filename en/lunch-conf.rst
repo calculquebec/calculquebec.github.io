@@ -23,7 +23,7 @@ Lunch conferences
       -
     * - 2026-04-20
       - Comment travailler avec R sur les superordinateurs.
-      - `Material <https://docs.google.com/document/d/1UIazd8CRQig18XdmWsfTfy2uojSqVv8UA-FBg84azQY>`__
+      - `Material <https://docs.google.com/document/d/1ZClFWcAalCCOZWIxwIZfZNUKxKfjFkpGQZWnUJk41l8>`__
       -
 
 .. list-table:: Year 2025
