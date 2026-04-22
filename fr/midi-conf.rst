@@ -19,7 +19,7 @@ Midi-conférences
       -
     * - 2026-04-27
       - Comment travailler avec Python sur les superordinateurs.
-      - `Matériel <https://docs.google.com/document/d/195CReDwPrRu45obGNtenEfWlLuwdGPNin64S7bGjxgE>`__
+      - `Matériel <https://docs.google.com/document/d/1xpJtqIbw7BPF5c9tO1CvhtneE2_SskspZK6HsJ6jLgA>`__
       -
     * - 2026-04-20
       - Comment travailler avec R sur les superordinateurs.
