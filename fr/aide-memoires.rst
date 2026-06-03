@@ -5,7 +5,7 @@ Aide-mémoires
 
 - **LNX101 - Introduction à la ligne de commande Linux**
 
-  - `Ligne de commande Linux
+  - `Commandes Linux
     <https://drive.google.com/file/d/1aLrmqS39dVjDQp-CoODV2XK10UtQvKrs/view>`__
 
 - **CIP101 - Premiers pas sur les grappes de calcul**
