@@ -5,17 +5,13 @@ Aide-mémoires
 
 - **LNX101 - Introduction à la ligne de commande Linux**
 
-  - `Ligne de commande Linux (1/2)
-    <https://docs.google.com/drawings/d/1FFT0oDccIEBxRqEojRsjUAbwPwx6tN6QpF6aKMbvDNI>`__
-  - `Ligne de commande Linux (2/2)
-    <https://docs.google.com/drawings/d/1pykm79s4YX-bslr2mLp6-mBGxO-e5IUpSbiLud2gyHY>`__
+  - `Ligne de commande Linux
+    <https://drive.google.com/file/d/1aLrmqS39dVjDQp-CoODV2XK10UtQvKrs/view>`__
 
 - **CIP101 - Premiers pas sur les grappes de calcul**
 
-  - `Grappes de calcul (1/2)
-    <https://docs.google.com/drawings/d/1tWZOJXxligL2JUvRPz6lqgWCJ6wNp5mhR114Xz8enac>`__
-  - `Grappes de calcul (2/2)
-    <https://docs.google.com/drawings/d/1RU1iK4zynePhDaqQFYHEXunX_nNm1hBe32i9dJXVkCE>`__
+  - `Grappes de calcul
+    <https://drive.google.com/file/d/1eefsER4-sRupUA_xQN_t5gbA1_kzwsjy/view>`__
 
 - **DAT201 - Analyse de données avec Python**
 
